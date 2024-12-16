@@ -1,0 +1,1 @@
+docker compose up --scale task5-back-end=2
